@@ -1,7 +1,7 @@
 # sudoku-solver
 sudoku-solver
 
-you must give a sudoku board in solve function like this:
+you must give a sudoku board in the solve function like this:
 
 
 
